@@ -1,0 +1,31 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "todos",
+    "host": "database-1.cxmscqjt8bog.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "unitTest": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "todos",
+    "host": "database-1.cxmscqjt8bog.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "todos",
+    "host": "database-1.cxmscqjt8bog.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "adminadmin",
+    "database": "todos",
+    "host": "database-1.cxmscqjt8bog.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
